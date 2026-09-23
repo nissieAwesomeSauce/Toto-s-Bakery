@@ -1,0 +1,1 @@
+depth = 100; // Se asegura de que se dibuje correctamente en pantalla
